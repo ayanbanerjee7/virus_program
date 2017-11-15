@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : virus.c
- Author      : abanerjee//This is my change
+ Author      : abanerjee//This is my change ..
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
